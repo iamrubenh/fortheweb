@@ -35,6 +35,13 @@ body {
     width: 25rem;
 }
 
+@media only screen and (max-width: 576px) {
+    .header-image {
+        height: auto;
+        width: 100%;
+    }
+}
+
 @media only screen and (max-width: 960px) {
     .c-border {
       border-bottom: 1px solid lightgrey;
