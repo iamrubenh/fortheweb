@@ -67,17 +67,13 @@ nav {
     background-color: #f6f6f6ff;
 }
 
-.button-c {
-    border: none;
-    color: white;
-    font-size: 1.1rem;
+.main-button {
     text-decoration: none;
-    background-color: #005EFF;
-    padding: 1.2rem 2.4rem;
+    color: #4285F4;
 }
 
-.button-c:hover {
-    color: white;
+.main-button:hover {
+    color: #4285F4;
 }
 
 .list {
