@@ -29,6 +29,12 @@ nav {
 
 
 /* /// CUSTOM TAGS /// */
+
+.blue-check {
+    font-size: 1.2rem;
+    color: #4285F4;
+}
+
 .icon {
     height: auto;
     width: 3rem;
