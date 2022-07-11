@@ -91,17 +91,8 @@ nav {
     padding: 0rem;
 }
 
-.header-image {
-    height: auto;
-    width: 10rem;
-}
+/* ICON-IMAGES */
 
-.finger-print-image {
-    margin: 1rem 0rem;
-    padding: 1rem 0rem;
-    height: auto;
-    width: 3rem;
-}
 
 /* TITLES */
 
@@ -116,4 +107,25 @@ nav {
     text-align: center;
     font-weight: 700;
     font-size: 1rem;
+}
+
+/* SMALL TEXT */
+.small-text-custom {
+    font-size: 0.9rem;
+}
+
+
+.contact-icons {
+    color: #4285F4;
+    height: auto;
+    width: auto;
+    font-size: 2rem;
+}
+
+.contact-icons:hover {
+    color: #4285F4;
+}
+
+.icon-container {
+    margin: 2rem;
 }
