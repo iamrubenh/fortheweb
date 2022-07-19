@@ -30,6 +30,11 @@ nav {
 
 /* /// CUSTOM TAGS /// */
 
+.domain-icon {
+    width: 4rem;
+    height: auto;
+}
+
 .blue-check {
     font-size: 1.2rem;
     color: #4285F4;
