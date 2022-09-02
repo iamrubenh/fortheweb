@@ -134,3 +134,8 @@ nav {
 .icon-container {
     margin: 2rem;
 }
+
+.py-7 {
+    padding-top: 80px;
+    padding-bottom: 80px;
+}
