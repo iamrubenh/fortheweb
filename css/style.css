@@ -6,7 +6,7 @@
 
 /* /// HTML TAGS /// */
 header {
-    padding: 4rem 0rem 0rem 0rem;
+    padding: 12rem 0rem 0rem 0rem;
 }
 
 body {
@@ -42,7 +42,7 @@ nav {
 
 .icon {
     height: auto;
-    width: 3rem;
+    width: 6rem;
 }
 
 @media only screen and (max-width: 576px) {
@@ -74,16 +74,16 @@ nav {
 }
 
 .bg-color {
-    background-color: #f6f6f6ff;
+    color: white;background-image: linear-gradient(to right, #438ede, rgb(44, 91, 172));
 }
 
 .main-button {
     text-decoration: none;
-    color: #4285F4;
+    color: #ffffff;
 }
 
 .main-button:hover {
-    color: #4285F4;
+    color: #ffffff;
 }
 
 .list {
@@ -121,14 +121,14 @@ nav {
 
 
 .contact-icons {
-    color: #4285F4;
+    color: #ffffff;
     height: auto;
     width: auto;
     font-size: 2rem;
 }
 
 .contact-icons:hover {
-    color: #4285F4;
+    color: #ffffff;
 }
 
 .icon-container {
