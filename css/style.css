@@ -74,7 +74,7 @@ nav {
 }
 
 .bg-color {
-    color: white;background-image: linear-gradient(to right, #438ede, rgb(44, 91, 172));
+    color: white;background-image: linear-gradient(90deg, rgba(57,168,255,1) 0%, rgba(1,101,186,1) 41%, rgba(1,48,113,1) 100%);
 }
 
 .main-button {
